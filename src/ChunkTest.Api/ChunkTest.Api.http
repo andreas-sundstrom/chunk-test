@@ -1,0 +1,6 @@
+@ChunkTest.Api_HostAddress = http://localhost:5137
+
+GET {{ChunkTest.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
